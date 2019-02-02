@@ -1,0 +1,144 @@
+
+"7" : 
+{ 
+"citycode" : 
+"023",
+"adcode" : 
+"500105",
+"name" : 
+"江北区",
+"center" : 
+"106.532844,29.575352",
+"level" : 
+"district",
+"districts" : 
+[ ]
+},
+
+"9" : 
+{ 
+"citycode" : 
+"023",
+"adcode" : 
+"500103",
+"name" : 
+"渝中区",
+"center" : 
+"106.56288,29.556742",
+"level" : 
+"district",
+"districts" : 
+[ ]
+},
+
+
+"11" : 
+{ 
+"citycode" : 
+"023",
+"adcode" : 
+"500104",
+"name" : 
+"大渡口区",
+"center" : 
+"106.48613,29.481002",
+"level" : 
+"district",
+"districts" : 
+[ ]
+},
+
+"13" : 
+{ 
+"citycode" : 
+"023",
+"adcode" : 
+"500107",
+"name" : 
+"九龙坡区",
+"center" : 
+"106.480989,29.523492",
+"level" : 
+"district",
+"districts" : 
+[ ]
+},
+
+"17" : 
+{ 
+"citycode" : 
+"023",
+"adcode" : 
+"500112",
+"name" : 
+"渝北区",
+"center" : 
+"106.512851,29.601451",
+"level" : 
+"district",
+"districts" : 
+[ ]
+},
+
+"22" : 
+{ 
+"citycode" : 
+"023",
+"adcode" : 
+"500113",
+"name" : 
+"巴南区",
+"center" : 
+"106.519423,29.381919",
+"level" : 
+"district",
+"districts" : 
+[ ]
+},
+
+"23" : 
+{ 
+"citycode" : 
+"023",
+"adcode" : 
+"500108",
+"name" : 
+"南岸区",
+"center" : 
+"106.560813,29.523992",
+"level" : 
+"district",
+"districts" : 
+[ ]
+},
+
+"24" : 
+{ 
+"citycode" : 
+"023",
+"adcode" : 
+"500106",
+"name" : 
+"沙坪坝区",
+"center" : 
+"106.4542,29.541224",
+"level" : 
+"district",
+"districts" : 
+[ ]
+},
+
+"25" : 
+{ 
+"citycode" : 
+"023",
+"adcode" : 
+"500109",
+"name" : 
+"北碚区",
+"center" : 
+"106.437868,29.82543",
+"level" : 
+"district",
+"districts" : 
+[ ]

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8' ?>
+
+<!-- build 20183.18.1219.1533                               -->
+<mapsource inline='true' source-platform='win' version='18.1' xmlns:user='http://www.tableausoftware.com/xml/user'>
+  <connection api-key='pk.eyJ1IjoieXVtbCIsImEiOiJjanFwd2c4aDEwNDEwNDlvdDNoZHZwOGRpIn0.hGkmCSkxQq6rdYq8EEb5qQ' class='MapBox' description='Mapbox 基本' full-url='https://api.mapbox.com/v4/{L}/{Z}/{X}/{Y}{D}.png256?access_token=pk.eyJ1IjoieXVtbCIsImEiOiJjanFwd2c4aDEwNDEwNDlvdDNoZHZwOGRpIn0.hGkmCSkxQq6rdYq8EEb5qQ' inline='true' layer-separator=',' offline='' port='443' server='api.mapbox.com' service='https' tileset='US\normal' url-format='/v4/{L}/{Z}/{X}/{Y}{D}.png256?access_token=pk.eyJ1IjoieXVtbCIsImEiOiJjanFwd2c4aDEwNDEwNDlvdDNoZHZwOGRpIn0.hGkmCSkxQq6rdYq8EEb5qQ' username='' wait-tile-color='#dddddd' />
+  <languages />
+  <layers>
+    <layer display-name='Streets Classic' name='mapbox.streets-basic' show-ui='true' type='features' />
+  </layers>
+  <properties />
+  <map-styles>
+    <map-style display-name='test' name='test' wait-tile-color='#dddddd'>
+      <map-layer-style name='Streets Classic' request-string='mapbox.streets-basic' />
+    </map-style>
+  </map-styles>
+  <mapsource-defaults version='18.1'>
+    <style>
+      <style-rule element='map-layer'>
+        <format attr='enabled' id='mapbox.streets-basic' value='true' />
+      </style-rule>
+      <style-rule element='map'>
+        <format attr='washout' value='0' />
+      </style-rule>
+    </style>
+  </mapsource-defaults>
+  <map-attribution copyright-string='关于地图' copyright-url='http://www.tableau.com/zh-cn/mapdata' short-copyright-string='' />
+</mapsource>
